@@ -14,10 +14,9 @@ Dataset - Chicago Crime Rate (available from official website)
 Key Objectives Achieved: 
 1) Learned how to create and host APIs
 2) How to work with UI
-3) How to craete a web service
-4) How to create a microservice
-5) Polished Python coding skills
-6) End-to-end deployment
+3) How to create a microservice
+4) Polished Python coding skills
+5) End-to-end deployment
 
 Key Findings from the dataset:
 1) Crimes are decreasing in Chicago
