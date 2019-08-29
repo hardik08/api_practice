@@ -3,8 +3,7 @@ Welcome to my API building project using Python and web servicecs frameworks, Fl
 Objective:
 Primary objective is to develop an end to end executable program to analyze the Chicago Crime rate dataset, while learning API development and creating a web service as a whole product.
 
-Technology used:
-
+Technologies used:
 Programming Language - Python
 Python libraries - Pandas, Numpy, Dash, Flask, Plotly
 Tools - Pycharm, Jupyter Notebook
