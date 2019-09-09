@@ -42,9 +42,11 @@ How to deploy:
 
 1) Data - Data has to be downloaded from the following link:
 
-https://data.cityofchicago.org/Public-Safety/Crimes-Map/dfnk-7re6
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
-(Export the csv from the above line. It may take a while for csv to be downloaded.)
+(- Click on the Export button on the top right side.
+ - Click on csv button.
+ It might take a while for the file downloading to start)
 
 2) Download/ Create all the python files listed above and keep all the files in a single directory. (NOTE: csv file all needs to be in the same directory)
 
